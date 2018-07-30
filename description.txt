@@ -1,0 +1,1 @@
+This project is a very crude model of how we could possibly control the limbs of an exoskeleton in the near future. 
